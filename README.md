@@ -58,8 +58,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp-developer&show_icons=true&theme=dracula&locale=en&layout=compact" height="300" width="420" alt="stats graph" align = "left" />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lamp-developer&show_icons=true&locale=en" alt="lamp-developer" align="center"/></p> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp-developer&show_icons=true&theme=dracula&locale=en&layout=compact" height="150" alt="stats graph"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lamp-developer&show_icons=true&locale=en" alt="lamp-developer" align="center"/></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamp-developer&" alt="lamp-developer" /></p>
 
 ###
