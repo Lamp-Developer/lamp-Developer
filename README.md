@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Thanyawit</h1>
-<h3 align="center">A passionate frontend developer(Junior)from Thailand</h3>
+<h2 align="center">Hi 👋! I'm Thanyawit</h1>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamp-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lamp-developer" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Python,C++**
+- 🌱 I’m currently learning **React Vue Angular**
 
-- 👨‍💻 All of my projects are available at [https://portfolio--luminus.web.app/](https://portfolio--luminus.web.app/)
+- 💬 Ask me about **Information Technology**
 
-- 💬 Ask me about **Thai language if you want to learn you can talk and exchange languages ​​with me.**
+- 📫 How to reach me **takeingpoon@gmail.com**
 
-- 📫 How to reach me **takeingpoon@gmail.com : thanyawit2002@outlook.com**
+- ⚡ Fun fact **I thing i'm funny haha**
 
-- ⚡ In my spare time i like to study English, watch anime and watch football. **I think I'm sociable and friendly and like to learn even though I'm not good at it but I'm trying.**
 
+
+
+###
+
+<img align="right" height="130" src="https://media.tenor.com/IaPFB4meDccAAAAi/phetta-phettaverse.gif?fbclid=IwAR2BxNqipSrEiMDtA-g2VadNtRDV970bMjm0oqsqKPSfyD6uIfdbn_YS5II"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
+</div>
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lfcclubtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lfcclubtk" height="30" width="40" /></a>
-<a href="https://instagram.com/thanyawit_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanyawit_b" height="30" width="40" /></a>
 </p>
+<div align="center">
+  <a href="https://www.facebook.com/thanyawit02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fthanyawit_b%3Figshid%3DZDc4ODBmNjlmNQ%253D%253D%26fbclid%3DIwAR20xmZH0pDdTit_BJpcQT-fTgAT_tSfce3q-faHMAPbbXlvgf5hxTOjKTo&h=AT3ZGc1jaut9QB3zv9t4OyXdAa9IEehMmHBDjd7Lc7gdxQE5A_WtKXuHwHxeUKAEtsVW0RqN7ACZqeh_EUSWsv7FpBg-OK0w1pXvuUvCVpjGvkb7UT_HiKNNqAoUhuA2DMA_-g" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fdev_luminus%3Ft%3DwNHfG6CjDFJLyQEw8orsHA%26s%3D07%26fbclid%3DIwAR0CxjlDPiRmbpedQ8neXmkJNpjbEcEcxYyRQMya4PoGd2mMw6W0OJWdYmU&h=AT3ZGc1jaut9QB3zv9t4OyXdAa9IEehMmHBDjd7Lc7gdxQE5A_WtKXuHwHxeUKAEtsVW0RqN7ACZqeh_EUSWsv7FpBg-OK0w1pXvuUvCVpjGvkb7UT_HiKNNqAoUhuA2DMA_-g" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/607851814259523595" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp-developer&show_icons=true&locale=en&layout=compact" alt="lamp-developer" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp-developer&show_icons=true&theme=dracula&locale=en&layout=compact" height="300" width="420" alt="stats graph" align = "left" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lamp-developer&show_icons=true&locale=en" alt="lamp-developer" align="center"/></p> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamp-developer&" alt="lamp-developer" /></p>
+
+###
